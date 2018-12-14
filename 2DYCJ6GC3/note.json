@@ -40,18 +40,100 @@
       "progressUpdateIntervalMs": 500
     },
     {
+      "text": "%sh\necho \"coiso\"",
+      "user": "gil",
+      "dateUpdated": "2018-12-14 15:55:31.554",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "sh",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/sh"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "coiso\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1544802558555_-406481042",
+      "id": "20181214-154918_471082810",
+      "dateCreated": "2018-12-14 15:49:18.556",
+      "dateStarted": "2018-12-14 15:55:31.611",
+      "dateFinished": "2018-12-14 15:55:34.520",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%sh\nkljlk",
+      "user": "gil",
+      "dateUpdated": "2018-12-14 15:55:47.710",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "sh",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/sh"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "ERROR",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "bash: kljlk: command not found\n"
+          },
+          {
+            "type": "TEXT",
+            "data": "ExitValue: 127"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1544802931558_-1666556796",
+      "id": "20181214-155531_520917376",
+      "dateCreated": "2018-12-14 15:55:31.558",
+      "dateStarted": "2018-12-14 15:55:47.764",
+      "dateFinished": "2018-12-14 15:55:47.819",
+      "status": "ERROR",
+      "progressUpdateIntervalMs": 500
+    },
+    {
       "text": "%sh\n",
       "user": "gil",
-      "dateUpdated": "2018-12-14 15:49:18.562",
+      "dateUpdated": "2018-12-14 15:55:47.711",
       "config": {},
       "settings": {
         "params": {},
         "forms": {}
       },
       "apps": [],
-      "jobName": "paragraph_1544802558555_-406481042",
-      "id": "20181214-154918_471082810",
-      "dateCreated": "2018-12-14 15:49:18.556",
+      "jobName": "paragraph_1544802947710_506481286",
+      "id": "20181214-155547_1865960211",
+      "dateCreated": "2018-12-14 15:55:47.710",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
