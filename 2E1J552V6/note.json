@@ -115,10 +115,21 @@
       "progressUpdateIntervalMs": 500
     },
     {
-      "text": "%sh\n",
+      "text": "%sh\ndasdasdsa",
       "user": "vimeiro",
-      "dateUpdated": "2018-12-14 15:16:12.214",
-      "config": {},
+      "dateUpdated": "2018-12-14 15:21:21.827",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "sh",
+          "editOnDblClick": false,
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/sh"
+      },
       "settings": {
         "params": {},
         "forms": {}
@@ -129,6 +140,65 @@
       "dateCreated": "2018-12-14 15:16:12.213",
       "status": "READY",
       "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%sh\n",
+      "user": "vimeiro",
+      "dateUpdated": "2018-12-14 15:21:03.677",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1544800863674_-1616049472",
+      "id": "20181214-152103_524275137",
+      "dateCreated": "2018-12-14 15:21:03.674",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%sh\ndsasdasfaasdsad",
+      "user": "vimeiro",
+      "dateUpdated": "2018-12-14 15:21:21.871",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "sh",
+          "editOnDblClick": false,
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/sh"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1544800866704_2011258044",
+      "id": "20181214-152106_1700982956",
+      "dateCreated": "2018-12-14 15:21:06.704",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%sh\n",
+      "user": "vimeiro",
+      "dateUpdated": "2018-12-14 15:21:03.009",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1544800863008_1871650677",
+      "id": "20181214-152103_2137235153",
+      "dateCreated": "2018-12-14 15:21:03.008",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
     }
   ],
   "name": "teste",
@@ -136,7 +206,7 @@
   "noteParams": {},
   "noteForms": {},
   "angularObjects": {
-    "sh:gil:": []
+    "sh:vimeiro:": []
   },
   "config": {
     "personalizedMode": "false",
