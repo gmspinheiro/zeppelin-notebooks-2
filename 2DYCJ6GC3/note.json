@@ -122,18 +122,61 @@
       "progressUpdateIntervalMs": 500
     },
     {
+      "text": "%sh\nhjkhjkhjkhjk",
+      "user": "gil",
+      "dateUpdated": "2018-12-14 15:57:31.664",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "sh",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/sh"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "ERROR",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "bash: hjkhjkhjkhjk: command not found\n"
+          },
+          {
+            "type": "TEXT",
+            "data": "ExitValue: 127"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1544802947710_506481286",
+      "id": "20181214-155547_1865960211",
+      "dateCreated": "2018-12-14 15:55:47.710",
+      "dateStarted": "2018-12-14 15:57:31.735",
+      "dateFinished": "2018-12-14 15:57:31.795",
+      "status": "ERROR",
+      "progressUpdateIntervalMs": 500
+    },
+    {
       "text": "%sh\n",
       "user": "gil",
-      "dateUpdated": "2018-12-14 15:55:47.711",
+      "dateUpdated": "2018-12-14 15:57:31.665",
       "config": {},
       "settings": {
         "params": {},
         "forms": {}
       },
       "apps": [],
-      "jobName": "paragraph_1544802947710_506481286",
-      "id": "20181214-155547_1865960211",
-      "dateCreated": "2018-12-14 15:55:47.710",
+      "jobName": "paragraph_1544803051664_-1395242624",
+      "id": "20181214-155731_1363960993",
+      "dateCreated": "2018-12-14 15:57:31.664",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
